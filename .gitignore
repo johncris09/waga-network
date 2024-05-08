@@ -1,0 +1,20 @@
+# api
+api/assets
+api/system
+api/composer.lock
+api/application/config/database.php
+api/application/views/college copy.php
+api/application/views/college.php
+api/application/views/seniorHigh.php
+client/build
+client/node_modules
+client/src/assets/css/react-paginate.css
+client/src/assets/images/avatars/*
+!client/src/assets/images/avatars/user.png
+client/src/assets/template
+client/src/views/reseller/ResellerTransaction copy.js
+client/update
+client/package-lock.json
+client/index.sh
+client/cypress.config.js
+client/.env

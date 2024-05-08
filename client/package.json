@@ -1,0 +1,22 @@
+{
+  "name": "waga",
+  "version": "4.5.0",
+  "description": "Waga Network",
+  "homepage": ".",
+  "author": "John Cris Manabo",
+  "scripts": {
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "lint": "eslint \"src/**/*.js\"",
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "test:cov": "npm test -- --coverage --watchAll=false",
+    "test:debug": "react-scripts --inspect-brk test --runInBand",
+
+    "cypress:open": "cypress open"
+  },
+  "engines": {
+    "node": ">=10",
+    "npm": ">=6"
+  }
+}

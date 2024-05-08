@@ -1,0 +1,86 @@
+/* https: //www.bootdey.com/snippets/view/social-network-dashboard-count */
+
+
+.rounded {
+  -webkit-border-radius: 3px !important;
+  -moz-border-radius: 3px !important;
+  border-radius: 3px !important;
+}
+
+.mini-stat {
+  padding: 15px;
+}
+
+.mini-stat-icon {
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+  line-height: 60px;
+  text-align: center;
+  font-size: 30px;
+  background: none repeat scroll 0% 0% #EEE;
+  border-radius: 100%;
+  float: left;
+  margin-right: 10px;
+  /* color: #FFF; */
+}
+
+.mini-stat-info {
+  font-size: 12px;
+  padding-top: 2px;
+}
+
+span,
+p {
+  /* color: white; */
+}
+
+.mini-stat-info span {
+  display: block;
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  margin-top: 7px;
+}
+
+/* ================ colors =====================*/
+.bg-widget1 {
+  background-image: linear-gradient(to bottom, #3b5998, #5b80af);
+  /* Gradient from top to bottom */
+  border: 1px solid #3b5998;
+  color: white;
+}
+
+.fg-widget1 {
+  color: #3b5998 !important;
+}
+
+.bg-widget2 {
+  background-color: #00a0d1 !important;
+  border: 1px solid #00a0d1;
+  color: white;
+}
+
+.fg-widget2 {
+  color: #00a0d1 !important;
+}
+
+.bg-widget3 {
+  background-color: #db4a39 !important;
+  border: 1px solid #db4a39;
+  color: white;
+}
+
+.fg-widget3 {
+  color: #db4a39 !important;
+}
+
+.bg-widget4 {
+  background-color: #205081 !important;
+  border: 1px solid #205081;
+  color: white;
+}
+
+.fg-widget4 {
+  color: #205081 !important;
+}
